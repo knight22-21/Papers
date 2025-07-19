@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython history
+.history
+.ipython/
+
+# Jupyter Notebook runtime files
+~$*
+*.nbconvert.ipynb
+
+# VSCode settings (optional)
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python virtual environment
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter Notebook metadata and outputs
+*.nbconvert/
+*.nb.html
+*.out.ipynb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Pip or conda environment files (optional to ignore)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy and Pyright type check artifacts
+.mypy_cache/
+.pyright/
+
+
+distilling knowledge in a nn.pdf
+U-Net/data/
